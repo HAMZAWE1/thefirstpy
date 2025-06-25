@@ -1,7 +1,7 @@
-mis = [10, 18, 75, 973, 957, 73, 33]
+lest = [1,2,3,4,5,6,7,8,9,0]
 
-for x in mis:
-    if mis[2] - 6 == 12:
-        print("i love you")
-    else:
-        print("i het you")
+num = 1
+
+for y in lest:
+    print("student " + str(num))
+    num = num + 1
